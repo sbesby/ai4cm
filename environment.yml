@@ -1,0 +1,12 @@
+name: ai4cm-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ipykernel
+  - duckdb
+  - seaborn
